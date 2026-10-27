@@ -1,0 +1,12 @@
+{
+  "permissions": {
+    "allow": [
+      "mcp__Slack__slack_send_message",
+      "mcp__Atlassian_MCP__searchJiraIssuesUsingJql",
+      "mcp__Atlassian_MCP__getJiraIssue",
+      "mcp__Atlassian_MCP__executeRead",
+      "Artifact",
+      "ArtifactData"
+    ]
+  }
+}
